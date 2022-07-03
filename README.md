@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 [my online cv](https://cancerian-x.github.io/online-cv/)
-![https://photos.app.goo.gl/CzY18aS15vFvfYHM7](https://ibb.co/HYq1XkP)
+![photo](https://ibb.co/HYq1XkP)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
