@@ -1,8 +1,6 @@
 ## Welcome to my website
 
-This website is a sign that I am Github now, officially. It is amazing what you can do with Github reprositories, not boring at all. I have knowledge of HTML, CSS so its not a big deal for me to learn the basics of Github.
-
-### Markdown
+One of my friend sent me her website on github, so I thought I would give it a try. Many people in the industry are interested in people who are active on Github, so I thought why not me. This website is a sign that I am Github, officially. It is amazing what you can do with Github reprositories, not boring at all. I previously had knowledge of HTML and CSS etc. so its not a big deal for me to learn the basics of making a github webpage. Let's see where it takes me!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
