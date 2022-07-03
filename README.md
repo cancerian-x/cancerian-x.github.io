@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/cancerian-x/cancerian-x.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is a sign that I am Github now, officially. It is amazing what you can do with Github reprositories, not boring at all. I have knowledge of HTML, CSS so its not a big deal for me to learn the basics of Github.
 
 ### Markdown
 
@@ -26,6 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 [my online cv](https://cancerian-x.github.io/online-cv/)
+![My Certificates](https://photos.app.goo.gl/CzY18aS15vFvfYHM7)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
