@@ -7,4 +7,4 @@ I am going to share my personal portfolio along with cyber security related stuf
 
 ```To view, click on the blue texts.```
 
-### Thank you for visiting my website.
+### Have a good day!
